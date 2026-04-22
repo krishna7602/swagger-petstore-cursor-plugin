@@ -1,0 +1,27 @@
+{
+  "name": "swagger-petstore",
+  "displayName": "Swagger Petstore",
+  "version": "1.0.7",
+  "description": "This is a sample server Petstore server.  You can find out more about Swagger at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you can use the api key `special-key` to test the authorization filters.",
+  "author": {
+    "name": "OpenPlug.ai User",
+    "email": "support@openplug.ai.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cursor",
+    "plugin",
+    "mcp",
+    "ai-tools",
+    "openplug.ai"
+  ],
+  "icon": "https://openplug.ai.io/favicon.ico",
+  "skills": "skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openplug.ai-user/swagger-petstore"
+  },
+  "engines": {
+    "cursor": "^0.1.0"
+  }
+}
